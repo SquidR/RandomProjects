@@ -21,11 +21,6 @@ def clearConsole():
 # stupid inputs :angry:
 b1 = int(input('Bounding Area 1 (Reccomended to be a negative number): '))
 b2 = int(input('Bounding Area 2 (Reccomended to be a positive number): '))
-s = str(input('Show full graph? (Y/N): '))
-if s == 'Y' or 'y':
-  showfull = True
-else:
-  showfull = False
 
 m = float(input('M: '))
 b = int(input('B: '))
