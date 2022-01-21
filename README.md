@@ -1,9 +1,9 @@
 # RandomProjects
 just random stuff i make when im bored
 
-#Instructions
+# Instructions
 
-##y=mx+b
+## y=mx+b
 - enter in inputs
 - wait for graph to be made
 - enjoy math
